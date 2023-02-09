@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "iU9s1wqxK2MgV6Nwefgf7nrqdroWhXQRONP/te2fMnoCLQ2KuptrGjlR11SFvi3O2hUEirw8KdZny9CIXvl0Tg==",
+  "success": true,
+  "projectFilePath": "C:\\cursos\\7DayOfCodeCSharp\\7DaysOfCodeCSharp\\Tamagotchi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\automapper\\3.1.1\\automapper.3.1.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\restsharp\\106.15.0\\restsharp.106.15.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'AutoMapper 3.1.1' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net5.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
